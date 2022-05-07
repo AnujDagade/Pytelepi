@@ -1,3 +1,5 @@
 # Pytelepi
 
- pyTelegramBotAPI required
+## pyTelegramBotAPI required
+
+> pip3 install pyTelegramBotAPI
